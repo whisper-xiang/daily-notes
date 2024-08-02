@@ -8,4 +8,4 @@
 
 ## 2024 年 (共计 1 篇)
 
-1. 2024-08-02 —— [test action](https://github.com/whisper-xiang/daily-notes/issues/3)
+1. 2024-08-02 —— [test1](https://github.com/whisper-xiang/daily-notes/issues/9)
