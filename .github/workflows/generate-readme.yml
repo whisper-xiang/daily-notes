@@ -11,6 +11,7 @@ env:
 jobs:
   bot:
     runs-on: ubuntu-latest
+    if: github.repository_owner == github.triggering_actor
     steps:
       - name: Checkout
         uses: actions/checkout@v2
@@ -42,3 +43,11 @@ jobs:
           commit-message: 'Update README.md by Github Actions'
           name: github-actions[bot]
           email: 41898282+github-actions[bot]@users.noreply.github.com
+
+        # 触发 github pages 构建
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.ACCESS_TOKEN }}
+          repository: ${{ secrets.REPOSITORY }}
+          event-type: build-and-deploy
