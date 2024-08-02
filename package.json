@@ -1,0 +1,26 @@
+{
+  "name": "daily-notes",
+  "version": "1.0.0",
+  "private": true,
+  "description": "日常笔记记录",
+  "scripts": {
+    "build": "node scripts/generateReadme.js",
+    "prettier": "prettier --write \"README.md\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whisper-xiang/daily-notes.git"
+  },
+  "author": "whisper-xiang <xiangergou000@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/whisper-xiang/daily-notes/issues"
+  },
+  "homepage": "https://github.com/whisper-xiang/daily-notes#readme",
+  "devDependencies": {
+    "@femm/prettier": "^1.0.1",
+    "fs-extra": "^11.1.0",
+    "octonode": "^0.10.2",
+    "prettier": "^2.8.2"
+  },
+  "prettier": "@femm/prettier"
+}
