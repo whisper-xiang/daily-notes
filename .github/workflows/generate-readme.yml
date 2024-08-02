@@ -31,6 +31,9 @@ jobs:
       - name: Run Script
         run: pnpm install && pnpm build && pnpm prettier
 
+      - name: Pull Remote Changes
+        run: git pull origin master || true # 忽略拉取时的错误，处理合并冲突
+
       - name: Push
         uses: github-actions-x/commit@v2.9
         with:
