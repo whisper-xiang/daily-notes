@@ -6,7 +6,7 @@ on:
     types: [opened]
 
 env:
-  TZ: Asia/Xian
+  TZ: Asia/Shanghai
 
 jobs:
   bot:
@@ -29,9 +29,6 @@ jobs:
           node-version: 16
           cache: 'pnpm'
 
-      - name: Pull Remote Changes
-        run: git pull origin master || true # 忽略拉取时的错误，处理合并冲突
-
       - name: Run Script
         run: pnpm install && pnpm build && pnpm prettier
 
@@ -49,5 +46,5 @@ jobs:
         uses: peter-evans/repository-dispatch@v3
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
-          repository: ${{ secrets.REPOSITORY }}
+          repository: whisper-xiang/vitepress-whisper-blog
           event-type: build-and-deploy
