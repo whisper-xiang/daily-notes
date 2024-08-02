@@ -47,4 +47,4 @@ jobs:
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
           repository: whisper-xiang/vitepress-whisper-blog
-          event-type: build-and-deploy
+          event-type: trigger-action
