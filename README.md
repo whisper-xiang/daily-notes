@@ -4,16 +4,8 @@
 
 > [新写一篇小笔记](https://github.com/whisper-xiang/daily-notes/issues/new)
 
-共计 **5** 篇（上次更新: 2024-08-02）
+共计 **1** 篇（上次更新: 2024-08-06）
 
-## 2024 年 (共计 5 篇)
+## 2024 年 (共计 1 篇)
 
-1. 2024-08-02 —— [21](https://github.com/whisper-xiang/daily-notes/issues/17)
-
-2. 2024-08-02 —— [32](https://github.com/whisper-xiang/daily-notes/issues/16)
-
-3. 2024-08-02 —— [2121](https://github.com/whisper-xiang/daily-notes/issues/15)
-
-4. 2024-08-02 —— [fasfsafs](https://github.com/whisper-xiang/daily-notes/issues/14)
-
-5. 2024-08-02 —— [fefe](https://github.com/whisper-xiang/daily-notes/issues/13)
+1. 2024-08-06 —— [未备案的域名实现 URL 跳转](https://github.com/whisper-xiang/daily-notes/issues/18)
