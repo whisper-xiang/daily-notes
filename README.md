@@ -8,6 +8,6 @@
 
 ## 2024 年 (共计 2 篇)
 
-1. 2024-08-07 —— [test1](https://github.com/whisper-xiang/daily-notes/issues/22)
+1. 2024-08-07 —— [Web3-Frontend-Bootcamp-Task](https://github.com/whisper-xiang/daily-notes/issues/23)
 
 2. 2024-08-06 —— [未备案的域名实现 URL 跳转](https://github.com/whisper-xiang/daily-notes/issues/18)
