@@ -4,7 +4,11 @@
 
 > [新写一篇小笔记](https://github.com/whisper-xiang/daily-notes/issues/new)
 
-共计 **17** 篇（上次更新: 2024-10-24）
+共计 **18** 篇（上次更新: 2025-01-07）
+
+## 2025 年 (共计 1 篇)
+
+1. 2025-01-07 —— [名人影响币圈案例](https://github.com/whisper-xiang/daily-notes/issues/39)
 
 ## 2024 年 (共计 17 篇)
 
