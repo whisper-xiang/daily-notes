@@ -4,15 +4,17 @@
 
 > [新写一篇小笔记](https://github.com/whisper-xiang/daily-notes/issues/new)
 
-共计 **20** 篇（上次更新: 2025-02-18）
+共计 **21** 篇（上次更新: 2025-03-19）
 
-## 2025 年 (共计 3 篇)
+## 2025 年 (共计 4 篇)
 
-1. 2025-02-18 —— [2025-2-15 阿根廷总统发币事件](https://github.com/whisper-xiang/daily-notes/issues/41)
+1. 2025-03-19 —— [AI 编码工具技术分享](https://github.com/whisper-xiang/daily-notes/issues/42)
 
-2. 2025-02-05 —— [DeepSeek R1](https://github.com/whisper-xiang/daily-notes/issues/40)
+2. 2025-02-18 —— [2025-2-15 阿根廷总统发币事件](https://github.com/whisper-xiang/daily-notes/issues/41)
 
-3. 2025-01-07 —— [名人影响币圈案例](https://github.com/whisper-xiang/daily-notes/issues/39)
+3. 2025-02-05 —— [DeepSeek R1](https://github.com/whisper-xiang/daily-notes/issues/40)
+
+4. 2025-01-07 —— [名人影响币圈案例](https://github.com/whisper-xiang/daily-notes/issues/39)
 
 ## 2024 年 (共计 17 篇)
 
